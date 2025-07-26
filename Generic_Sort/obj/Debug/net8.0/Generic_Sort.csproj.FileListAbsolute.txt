@@ -1,0 +1,14 @@
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.AssemblyInfoInputs.cache
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.AssemblyInfo.cs
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.csproj.CoreCompileInputs.cache
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/bin/Debug/net8.0/Generic_Sort
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/bin/Debug/net8.0/Generic_Sort.deps.json
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/bin/Debug/net8.0/Generic_Sort.runtimeconfig.json
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/bin/Debug/net8.0/Generic_Sort.dll
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/bin/Debug/net8.0/Generic_Sort.pdb
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.dll
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/refint/Generic_Sort.dll
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.pdb
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.genruntimeconfig.cache
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/ref/Generic_Sort.dll
