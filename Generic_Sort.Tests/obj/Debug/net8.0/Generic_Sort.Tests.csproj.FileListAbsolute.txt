@@ -102,3 +102,4 @@
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort.Tests/obj/Debug/net8.0/Generic_Sort.Tests.pdb
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort.Tests/obj/Debug/net8.0/Generic_Sort.Tests.genruntimeconfig.cache
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort.Tests/obj/Debug/net8.0/ref/Generic_Sort.Tests.dll
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort.Tests/obj/Debug/net8.0/Generic_Sort.Tests.sourcelink.json

@@ -9,6 +9,10 @@
         /// <param name="list">the list of items to be sorted </param>
         public static List<T> GenericSort<T>(List<T> list) where T : IComparable
         {
+            if (list == null)
+            {
+                throw new ArgumentNullException(nameof(list), "List cannot be null");
+            }
             for (int i = 0; i < list.Count - 1; i++)
             {
                 for (int j = 0; j < list.Count - i - 1; j++)

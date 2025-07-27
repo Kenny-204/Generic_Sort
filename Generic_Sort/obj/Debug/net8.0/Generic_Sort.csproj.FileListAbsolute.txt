@@ -12,3 +12,4 @@
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.pdb
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.genruntimeconfig.cache
 /home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/ref/Generic_Sort.dll
+/home/kenny/Desktop/Generic_Sort_Alg/Generic_Sort/obj/Debug/net8.0/Generic_Sort.sourcelink.json
